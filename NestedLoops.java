@@ -1,6 +1,6 @@
 package Projects2;
 
-public class P_7_Nested_Loops {
+public class NestedLoops {
 
 	public static void main(String[] args) {
 		int i,j;
