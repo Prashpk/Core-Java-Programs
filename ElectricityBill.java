@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_14_ElectricityBill {
+public class ElectricityBill {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		float fixed_rate = 350.00f;
 		int units;
