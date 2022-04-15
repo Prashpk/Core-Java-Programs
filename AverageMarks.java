@@ -1,6 +1,6 @@
 package projects1;
 import java.util.Scanner;
-public class Average_marks {
+public class AverageMarks {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class Average_marks {
 		s5 = sc.nextInt();
 		
 		avg = (s1 + s2 + s3 + s4 + s5)/5;
-		System.out.println("Average marks is " +avg);
+		System.out.println("Average Marks is " +avg);
 		
 		
 
