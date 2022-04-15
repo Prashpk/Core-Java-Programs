@@ -1,9 +1,7 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_17_Reverse_String {
-
-	@SuppressWarnings("resource")
+public class ReverseString {
 	public static void main(String[] args) {
 		String s=" ",rev=" ";
 		int i;
