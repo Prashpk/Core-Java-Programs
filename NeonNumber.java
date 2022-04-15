@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class P_5_Neon_Number {
+public class NeonNumber {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int n,square,digit,sum=0;
 		Scanner sc = new Scanner(System.in);
