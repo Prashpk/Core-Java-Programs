@@ -2,7 +2,7 @@ package projects1;
 
 import java.util.Scanner;
 
-public class Areas_Calculator {
+public class AreasCalculator {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
