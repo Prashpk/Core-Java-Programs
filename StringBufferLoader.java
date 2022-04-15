@@ -1,5 +1,5 @@
 
-public class P6_String_Buffer_Loader {
+public class StringBufferLoader {
 
 	public static void main(String[] args) {
 //		String s = "Hello";
