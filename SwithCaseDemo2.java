@@ -2,12 +2,11 @@ package projects1;
 
 import java.util.Scanner;
 
-public class SwithCasedemo2Vowels {
+public class SwithCaseDemo2 {
 
 	public static void main(String[] args) {
 		char vowel;
-		
-		@SuppressWarnings("resource")
+
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the character");
 		vowel = sc.next().charAt(0);
