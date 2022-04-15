@@ -12,7 +12,7 @@ class Addition1{
 		System.out.println("Sum of double =  "  +(i+j));	
 	}
 }
-public class P6_Overloading_Addition {
+public class OverloadingExample {
 	public static void main(String[] args) {		
 		Addition1 sum = new Addition1();
 		sum.Addition(10, 10);
