@@ -1,7 +1,7 @@
 package Projects2;
 import java.util.Scanner;
 
-public class P_6_Factors_Of_Numbers {
+public class FactorsNumbers {
 
 	public static void main(String[] args) {
 		
