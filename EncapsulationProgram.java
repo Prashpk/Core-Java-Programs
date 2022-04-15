@@ -1,5 +1,5 @@
 
-//Encapsulation is the process of
+//Encapsulation is the process of wrapping data and code together in a single unit called class.  
 import java.util.Scanner;
 
 class Student{
@@ -34,9 +34,7 @@ class Student{
 	}
 }
 
-public class P1_Encapsulation {
-
-	@SuppressWarnings("unused")
+public class EncapsulationProgram {
 	public static void main(String[] args) {
 		
 		int a[] = new int[5];
