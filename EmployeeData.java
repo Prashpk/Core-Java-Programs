@@ -6,9 +6,7 @@ class Employee{
 	String eDept;
 	Float eSalary;
 	
-	
-	@SuppressWarnings("resource")
-	void acceptEmployeeData() {	
+	void AcceptEmployeeData() {	
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Employee Name :");
 		eName = sc.nextLine();
@@ -29,30 +27,22 @@ class Employee{
 		System.out.println("EDept = " +eDept);
 		System.out.println("ESalary = " +eSalary);
 	}
-	void HighestEmployeeSalary() {
-		
-	}
-
 }
 
-
-public class P2_EmployeeData {
+public class EmployeeData {
 
 	public static void main(String[] args) {
 		
 		Employee Emp = new Employee();
-		Emp.acceptEmployeeData();
+		Emp.AcceptEmployeeData();
 		Emp.DisplayEmployeeData();
 		
 		Employee Emp1 = new Employee();
-		Emp1.acceptEmployeeData();
+		Emp1.AcceptEmployeeData();
 		Emp1.DisplayEmployeeData();
 		
 		Employee Emp2 = new Employee();
-		Emp2.acceptEmployeeData();
-		Emp2.DisplayEmployeeData();
-		
-
+		Emp2.AcceptEmployeeData();
+		Emp2.DisplayEmployeeData();	
 	}
-
 }
