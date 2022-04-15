@@ -1,6 +1,6 @@
 package projects1;
 import java.util.Scanner;
-public class EvenOrOdd {
+public class EvenOdd {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -18,7 +18,5 @@ public class EvenOrOdd {
 		else {
 			System.out.println(+number+ " is Odd");
 		}
-
 	}
-
 }
