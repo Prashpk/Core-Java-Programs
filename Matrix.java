@@ -2,7 +2,7 @@ package Projects2;
 //TWoDimensional Array example Matrix
 
 import java.util.Scanner;
-public class Pg_12_Matrix {
+public class Matrix {
 
 	public static void main(String[] args) {
 		int r,c,m,n;
