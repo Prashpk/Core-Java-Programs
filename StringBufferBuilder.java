@@ -1,4 +1,4 @@
-public class P7_String_Buffer_Builder {
+public class StringBufferBuilder {
 
 	public static void main(String[] args) {
 		//insert function
