@@ -55,7 +55,7 @@ class StudentIdCompare1 implements Comparator<StudentTreeSet2>{
 		return o1.sid-o2.sid;
 	}
 }
-public class P9_ArrayListSort {
+public class ArrayListSortEx2 {
 
 	public static void main(String[] args) {
 		ArrayList<StudentTreeSet2> ob=new ArrayList< StudentTreeSet2>( );
