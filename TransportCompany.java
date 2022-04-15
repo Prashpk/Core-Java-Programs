@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Atransport{
+class Transport1{
 	//member variables
 	String name;
 	int w;
@@ -39,9 +39,9 @@ class Atransport{
 	}
 }
 
-public class P11_TransportCompany {
+public class TransportCompany {
 	public static void main(String[] args) {
-		Atransport at = new Atransport();
+		Transport1 at = new Transport1();
 		at.accept();
 		at.calculate();
 		at.print();
