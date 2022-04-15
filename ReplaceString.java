@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class P8_ReplaceString {
+public class ReplaceString {
 
-		@SuppressWarnings("resource")
+		
 		public static void main(String[] args) {
 			
 			Scanner sc = new Scanner(System.in);
