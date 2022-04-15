@@ -1,7 +1,7 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_13_Addition_Matrix {
+public class AdditionMatrix {
 
 	public static void main(String[] args) {
 		int a[][], b[][], c[][],r1,c1,r2,c2,i,j;
@@ -43,10 +43,7 @@ public class Pg_13_Addition_Matrix {
 					System.out.print(c[i][j]+ " ");
 				}
 				System.out.println();
-			}
-			
+			}	
 		}
-
 	}
-
 }
