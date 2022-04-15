@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-public class P3_SumOfArrayElements {
+public class SumArrayElements {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int i;
 		int arr[] = new int[5];
