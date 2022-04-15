@@ -6,7 +6,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
-public class P1_MyHashMap {
+public class MyHashMap {
 
 	public static void main(String[] args) {
 		// HashMap<Key, Value>
