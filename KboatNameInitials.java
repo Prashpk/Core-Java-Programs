@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class P1_KboatNameInitials
+public class KboatNameInitials
 {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
