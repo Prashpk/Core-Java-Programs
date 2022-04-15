@@ -2,7 +2,7 @@ package ArrayList;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-class product{
+class Product{
 	int pid;
 	String name;
 	float price;
@@ -36,17 +36,17 @@ class product{
 	}
 	
 }
-public class P8_ProductArrayList {
+public class ProductArrayList {
 
 	public static void main(String[] args) {
 		//create an ArrayList which will take product objects
-		ArrayList<product> Ap = new ArrayList<>();
+		ArrayList<Product> Ap = new ArrayList<>();
 		
-		//create 4 objects of product
-		product ob1 = new product( 1, "soap", 7500f);
-		product ob2 = new product( 2, "Rice", 1100f);
-		product ob3 = new product( 3, "ghee", 6000f);
-		product ob4 = new product( 4, "choc", 2500f);
+		//create 4 objects of Product
+		Product ob1 = new Product( 1, "soap", 7500f);
+		Product ob2 = new Product( 2, "Rice", 1100f);
+		Product ob3 = new Product( 3, "ghee", 6000f);
+		Product ob4 = new Product( 4, "choc", 2500f);
 		
 		//add product objects to arraylist
 		Ap.add(ob1);
@@ -55,9 +55,9 @@ public class P8_ProductArrayList {
 		Ap.add(ob4);
 		
 		//display using iterator
-		Iterator<product> obj = Ap.iterator();
+		Iterator<Product> obj = Ap.iterator();
 		while(obj.hasNext()) {
-			product p = obj.next();
+			Product p = obj.next();
 			System.out.println(p.getPid()+ "  " +p.getName()+ "  " +p.getPrice()+ " Rs");
 		}
 	}
