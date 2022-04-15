@@ -4,9 +4,8 @@ package Projects2;
 //For example 545, 151, 34543, 343, 171, 48984 are the palindrome numbers. 
 
 import java.util.Scanner;
-public class P_2_Palindrome {
+public class Palindrome {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		 int digit,num,rev = 0;
 	        Scanner sc= new Scanner(System.in); 
