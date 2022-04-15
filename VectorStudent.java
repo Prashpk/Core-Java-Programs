@@ -3,7 +3,6 @@ package LinkedList;
 
 import java.util.Collections;
 import java.util.Iterator;
-//import java.util.LinkedList;
 import java.util.Vector;
 
 class student{
@@ -37,7 +36,7 @@ class student{
 	
 }
 
-public class P2_Student {
+public class VectorStudent {
 
 	public static void main(String[] args) {
 		Vector<student> li= new Vector<>();
@@ -54,7 +53,6 @@ public class P2_Student {
 		while(sit.hasNext()) {
 			student s= sit.next();
 			System.out.println(s.getId() +" "+s.getName()+" "+s.getFees());
-		}
-			
+		}	
 	}
 }
