@@ -1,8 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class PG_10_Bubble_Sort {
-	@SuppressWarnings("resource")
+public class BubbleSortEx {
+	
 	public static void main(String[] args) {
 	
 	int i,j,temp,a[],n;
