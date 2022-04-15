@@ -3,7 +3,7 @@ package HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class P5_LinkedHashMap {
+public class LinkedHashMapEx {
 
 	public static void main(String[] args) {
 		LinkedHashMap<Integer,String> lh = new LinkedHashMap<>();
