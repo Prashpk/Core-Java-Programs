@@ -1,5 +1,5 @@
 
-public class P1_Finding_string {
+public class FindingString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
