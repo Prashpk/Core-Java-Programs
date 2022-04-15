@@ -1,17 +1,15 @@
 package projects1;
 
 import java.util.Scanner;
-public class Employee_Details {
+public class EmployeeDetails {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		we need name, age, fees, gender
 		String name;
 		int age;
 		float salary;
 		char gender;
 		
-		@SuppressWarnings("resource")
 		Scanner si =  new Scanner(System.in); 
 		System.out.println("Enter the Employee NAME : ");
 		name = si.next();
@@ -26,10 +24,6 @@ public class Employee_Details {
 		System.out.println("name = " +name);
 		System.out.println("age = " +age);
 		System.out.println("fees = " +salary);
-		System.out.println("gender = " +gender);
-		
-		
-
+		System.out.println("gender = " +gender);	
 	}
-
 }
