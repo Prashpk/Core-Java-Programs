@@ -35,7 +35,7 @@ class student{
 	
 }
 
-public class P6_ArrayListPredefinedClass {
+public class ArrayListUserDefinedClass{
 
 	public static void main(String[] args) {
 		ArrayList<student> li= new ArrayList<>();
