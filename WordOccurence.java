@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class P10_Word_Occurence {
+public class WordOccurence {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
