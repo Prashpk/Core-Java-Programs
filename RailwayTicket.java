@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-class railwayticket1{
+class RailwayTicket1{
 	String name;
 	String coach;
 	long mobno;
@@ -59,9 +59,9 @@ class railwayticket1{
 		System.out.println("total amount = " +totalamount);
 	}	
 }
-public class P10_Railway_Ticket {
+public class RailwayTicket {
 	public static void main(String[] args) throws IOException {
-		railwayticket1 rt = new railwayticket1();
+		RailwayTicket1 rt = new RailwayTicket1();
 		rt.accept();
 		rt.update();
 		rt.display();
