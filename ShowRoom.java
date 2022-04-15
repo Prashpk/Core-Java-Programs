@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
- class showroom1{
+ class ShowRoom12{
 	String name;
 	long mobno;
 	double cost;
@@ -50,9 +50,9 @@ import java.io.InputStreamReader;
 		System.out.println("Amount to be paid after discount = " +amount+" Rs");
 	}
 }
-public class P7_ShowRoom {
+public class ShowRoom {
 	public static void main(String[] args) throws IOException {
-		showroom1 sr = new showroom1();
+		ShowRoom12 sr = new ShowRoom12();
 		sr.input();
 		sr.calculate();
 		sr.display();
