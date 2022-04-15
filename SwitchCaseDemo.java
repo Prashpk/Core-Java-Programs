@@ -7,7 +7,7 @@ public class SwitchCaseDemo {
 	public static void main(String[] args) {
 		int day;
 		
-		@SuppressWarnings("resource")
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the day number");
 		day = sc.nextInt();
