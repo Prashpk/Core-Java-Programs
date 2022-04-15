@@ -1,5 +1,5 @@
 
-class P1_BubbleSort{
+class BubbleSort{
 	static void Ascending(int arr[]) {
 		int i,j;
 		int n = arr.length;
