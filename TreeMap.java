@@ -48,7 +48,7 @@ class Books{
 
 
 
-public class P4_TreeMap {
+public class TreeMap {
 
 	public static void main(String[] args) {
 		TreeMap<Integer, Books> tm = new TreeMap<>();
