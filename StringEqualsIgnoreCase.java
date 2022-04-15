@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_18_String_Equals_Ignorecase {
+public class StringEqualsIgnoreCase {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int i;
 		String uname,upass;
