@@ -1,8 +1,8 @@
 import java.util.Scanner;
 //program to remove vowels
-public class P5_Vowels_String{
+public class RemoveVowels{
 
-	@SuppressWarnings("resource")
+
 	public static void main(String[] args) {
 		
 		int i;
