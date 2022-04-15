@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
-public class P2_string {
+public class PresentChar{
 
 	public static void main(String[] args) {
-		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		String s;
 		int c = 0;
