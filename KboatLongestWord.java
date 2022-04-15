@@ -2,12 +2,12 @@
 
 //display the longest word and 
 //the length of the longest word present in the String.
-//Sample Input: ìTATA FOOTBALL ACADEMY WILL PLAY AGAINST MOHAN BAGANî
+//Sample Input: ‚ÄúTATA FOOTBALL ACADEMY WILL PLAY AGAINST MOHAN BAGAN‚Äù
 //Sample Output: The longest word: FOOTBALL: The length of the word: 8
 
 import java.util.Scanner;
 
-public class P2_KboatLongestWord
+public class KboatLongestWord
 {
     public static void main(String args[]) {
        Scanner in = new Scanner(System.in);
@@ -31,6 +31,5 @@ public class P2_KboatLongestWord
                word += ch;
            }
        }
-//From Indrakka Mali to Everyone 05:32 PM
     }
 }
