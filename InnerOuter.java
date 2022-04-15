@@ -1,8 +1,8 @@
 package Projects2;
 
-public class P_9_Nested_Loop_Break {
+public class InnerOuter {
 	
-		@SuppressWarnings("unused")
+	
 		public static void main(String[] args) {		
 			int i,j;
 			
