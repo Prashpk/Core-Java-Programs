@@ -2,7 +2,7 @@ package ArrayList;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class P_2_ArrayListProgram {
+public class ArrayListProgramEx {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> lst=new ArrayList<>();
