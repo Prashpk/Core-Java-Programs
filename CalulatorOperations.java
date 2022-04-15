@@ -2,7 +2,7 @@ package projects1;
 
 import java.util.Scanner;
 
-public class Calulator_OPerations {
+public class CalulatorOperations {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int ans;
