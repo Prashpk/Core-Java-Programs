@@ -2,9 +2,8 @@ package projects1;
 
 import java.util.Scanner;
 
-public class Tea_and_Cofee {
+public class TeaAndCofee {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int tea,coffee,quantity,choice,amount;
 		char ch;
