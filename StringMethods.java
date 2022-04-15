@@ -1,5 +1,5 @@
 //M.k.Gandhi
-public class StringName {
+public class StringMethods {
 
 	public static void main(String[] args) {
 		String s = "Mohandas Karamchand Gandhi";
