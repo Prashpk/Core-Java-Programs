@@ -1,17 +1,16 @@
 package projects1;
 
 import java.util.Scanner;
-public class Student_Information {
+public class StudentInformation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 //		we need name, age, fees, gender
 		String name;
 		int age;
 		float fees;
 		char gender;
 		
-		@SuppressWarnings("resource")
+
 		Scanner si =  new Scanner(System.in); 
 		System.out.println("Enter the Student NAME : ");
 		name = si.next();
