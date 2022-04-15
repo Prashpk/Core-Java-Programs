@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class P_4_Minimum_Array_Elements{
-	@SuppressWarnings("resource")
+public class MinimumArrayElements{
+
 	public static void main(String[] args) {
 		
 		int a[]=new int[5];
