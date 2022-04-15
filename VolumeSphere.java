@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class volume{
+class Volume{
  double v;
 	
 	void volume(double r) {
@@ -16,9 +16,9 @@ class volume{
 		System.out.println("Volume of cuboid is " +v);
 	}
 }
-public class P9_VolumeOFSphere {
+public class VolumeSphere {
 	public static void main(String[] args) {
-		volume vl = new volume();
+		Volume vl = new Volume();
 		vl.volume(10);
 		vl.volume(10,10);
 		vl.volume(10,10,10);
