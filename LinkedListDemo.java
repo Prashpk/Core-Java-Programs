@@ -6,7 +6,7 @@ import java.util.Iterator;
 
 import java.util.LinkedList;
 
-public class P1_LinkedListDemo {
+public class LinkedListDemo {
 
 	public static void main(String[] args) {
 		LinkedList<Integer> listob = new LinkedList<>();
