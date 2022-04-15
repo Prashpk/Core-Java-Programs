@@ -1,7 +1,7 @@
-// Program to sum of 10 natural numbers ?
+// Program to sum the 10 natural numbers ?
 package projects1;
 
-public class SumOf_10_Numbers {
+public class SumOfNumbers {
 
 	public static void main(String[] args) {
 		int sum = 0;
