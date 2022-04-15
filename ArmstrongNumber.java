@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class P_3_Armstrong_Number {
+public class ArmstrongNumber {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int num,number1,temp,total=0;
 		Scanner sc = new Scanner(System.in);
