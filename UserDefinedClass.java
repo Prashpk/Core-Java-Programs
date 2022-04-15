@@ -59,7 +59,7 @@ class Car{
 	}	
 }
 
-public class P6_UserDefined_LinkedHashMap {
+public class UserDefinedClass {
 
 	public static void main(String[] args) {
 		LinkedHashMap<Integer, Car> cl = new LinkedHashMap<> ();
