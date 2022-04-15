@@ -1,7 +1,7 @@
 package ArrayList;
 import java.util.ArrayList;
 
-public class P_1_ArrayList {
+public class ArrayListExample {
 
 	public static void main(String[] args) {
 		ArrayList<Integer> lst = new ArrayList<Integer>();
