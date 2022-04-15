@@ -4,7 +4,7 @@ package projects1;
 
 import java.util.Scanner;
 
-public class Break_and_Continue {
+public class BreakAndContinue {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
