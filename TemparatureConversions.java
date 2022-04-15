@@ -2,9 +2,9 @@ package projects1;
 
 import java.util.Scanner;
 
-public class Temparature_conversions {
+public class TemparatureConversions {
 
-	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 		
 		float celcius, fareignheight;
