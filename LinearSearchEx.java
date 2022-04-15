@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-public class P5_Linear_Search_Ex {
+public class LinearSearchEx {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		int i,num,item;
 		 Scanner sc = new Scanner(System.in);
