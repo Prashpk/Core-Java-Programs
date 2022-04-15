@@ -1,12 +1,11 @@
 package projects1;
 
 import java.util.Scanner;
-public class Square {
+public class SquareArea {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int side,Area;
-		@SuppressWarnings("resource")
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the Side os Square :");
 		side = sc.nextInt();
