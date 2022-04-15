@@ -2,7 +2,7 @@ package LinkedList;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class P6_MyLinkedList {
+public class MyLinkedList {
 
 	public static void main(String[] args) {
 		LinkedList<Integer>listob=new LinkedList<Integer>();
