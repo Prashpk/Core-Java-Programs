@@ -1,12 +1,10 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_11_BubbleSort_Descending {
-	@SuppressWarnings("resource")
-	public static void main(String[] args) {
-	
-	int i,j,temp,a[],n;
-	Scanner sc = new Scanner(System.in);
+public class BubbleSortDescending {
+public static void main(String[] args) {
+    int i,j,temp,a[],n;
+    Scanner sc = new Scanner(System.in);
     System.out.println("Enter the array size:");
     n = sc.nextInt();
     a = new int[n];
