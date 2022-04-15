@@ -1,7 +1,7 @@
 package ArrayList;
 import java.util.ArrayList;
 
-public class P_4_Arraylist_Newmethod {
+public class NewMethod {
 
 	public static void main(String[] args) {
 		
@@ -31,6 +31,7 @@ public class P_4_Arraylist_Newmethod {
 		al.addAll(1,a2);
 		System.out.println(al);
 		
+		//clone( ) method
 		ArrayList<String> sl = (ArrayList<String>)bl.clone();
 		System.out.println(sl);
 		System.out.println(bl.subList(1,2));
