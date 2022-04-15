@@ -60,7 +60,7 @@ class StudentIdCompare implements Comparator<StudentTreeSet>{
 		return o1.sid-o2.sid;
 	}
 }
-public class P7_TreeSetStudentMain {
+public class TreeSetStudentMain {
 
 	public static void main(String[] args) {
 		//***************MARKS*********************
