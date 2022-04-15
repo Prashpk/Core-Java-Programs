@@ -3,7 +3,7 @@ package op1;
 public class Operators3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		int i = 6,k;
 		
 		k = ++i + ++i;//post increment
