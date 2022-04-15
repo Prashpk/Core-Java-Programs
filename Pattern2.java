@@ -1,6 +1,6 @@
 package Projects2;
 
-public class P_8_Pattern2 {
+public class Pattern2 {
 
 	public static void main(String[] args) {
 		
