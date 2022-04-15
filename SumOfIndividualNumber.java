@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class P_4_Sum_Of_Individual_Number {
+public class SumOfIndividualNumber {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
 		int num, digit, sum=0;
