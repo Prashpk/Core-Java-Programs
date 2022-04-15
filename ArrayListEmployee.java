@@ -42,7 +42,7 @@ class Employee{
 	
 }
 
-public class P7_ArrayListEmployee {
+public class ArrayListEmployee {
 
 	public static void main(String[] args) {
 		ArrayList<Employee> list= new ArrayList<>();
