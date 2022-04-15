@@ -3,11 +3,8 @@ import java.util.Scanner;
 public class LargestOfThreeNum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
 		int num1, num2, num3;
 		
-		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number 1");
 		num1 = sc.nextInt();
@@ -28,7 +25,5 @@ public class LargestOfThreeNum {
 		else {
 			System.out.println("All Three Numbers Are Equal");
 		}
-
 	}
-
 }
