@@ -1,5 +1,5 @@
 
-public class P_1_ArrayDemo {
+public class ArrayDemo {
 
 	public static void main(String[] args) {
 		int i;		
