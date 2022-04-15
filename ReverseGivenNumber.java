@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class P_1_Reverse_Number {
+public class ReverseGivenNumber {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		
         int digit,num,rev = 0;
