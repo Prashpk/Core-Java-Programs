@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class P2_Arrays {
+public class ArraysProgram {
 
-	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 	 int i;
 	 int arr[] = new int[5];
