@@ -46,7 +46,7 @@ class Book{
 	
 }
 
-public class P3_MapExample {
+public class HashMapExample {
 public static void main(String[] args) {
 		HashMap<Integer,Book> mp=new HashMap<>();
 		Book b1=new Book(11,"Java Complete Ref","Games",500f);
