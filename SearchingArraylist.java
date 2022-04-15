@@ -1,11 +1,10 @@
 package ArrayList;
 import java.util.ArrayList;
-
 import java.util.Scanner;
 
-public class P_3_Searching_String_Arraylist{
+public class SearchingArraylist{
 
-	@SuppressWarnings("resource")
+	
 	public static void main(String[] args) {
 		ArrayList<String> lst=new ArrayList<>();
 		String Name;
