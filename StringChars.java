@@ -1,9 +1,8 @@
 package Projects2;
 import java.util.Scanner;
 
-public class Pg_16_String_Chars {
+public class StringChars {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		String name,rev="";
 		int i;
